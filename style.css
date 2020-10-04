@@ -1,0 +1,54 @@
+body{
+	font-family: 'Noto Sans', sans-serif;
+	background: #d5f0f3;
+}
+
+h1{
+	margin: 40px auto;
+	text-align: center;
+	font-weight: 300;
+}
+
+h3{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kotak{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.inputan{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+button{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+center{
+	margin-top: 15px;
+}
+
+a{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
